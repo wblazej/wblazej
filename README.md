@@ -7,4 +7,5 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wblazej&theme=github-dark-blue&hide_border=true&a=1)](https://git.io/streak-stats)
+![GitHub Streak](https://gh-stats.wblz.xyz?user=wblazej&theme=github-dark-blue&hide_border=true&a=1)
+
